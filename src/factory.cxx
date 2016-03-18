@@ -33,7 +33,7 @@
 #include <log4cplus/win32debugappender.h>
 #include <log4cplus/win32consoleappender.h>
 #include <log4cplus/log4judpappender.h>
-
+//factory mode files
 
 ///////////////////////////////////////////////////////////////////////////////
 // LOCAL file class definitions
